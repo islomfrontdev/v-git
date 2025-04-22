@@ -1,0 +1,3 @@
+<template>
+    Krinjbe uzs
+</template>
